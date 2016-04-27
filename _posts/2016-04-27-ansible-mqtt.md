@@ -16,7 +16,7 @@ service](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.ht
 which is effectively MQTT as a service in the cloud.
 
 Strangely, there doesn't seem to be a reasonable ansible playbook for
-MQTT that I can steal^H^H^H^H^get inspiration from, even on [Ansible
+MQTT that I can ~steal~^H^H^H^H^Hget inspiration from, even on [Ansible
 Galaxy](https://galaxy.ansible.com).
 
 ## Inspiration
