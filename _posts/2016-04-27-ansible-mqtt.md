@@ -12,7 +12,7 @@ We are bringing some goodness to our infrastructure at work. So we're digging in
 We use [MQTT](http://mqtt.org) in our system to send messages around
 from our drones. MQTT is an IoT messaging bus that is for realz. If
 you needed any more proof, Amazon AWS offers [IOT as a
-service(http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)],
+service](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html),
 which is effectively MQTT as a service in the cloud.
 
 Strangely, there doesn't seem to be a reasonable ansible playbook for
